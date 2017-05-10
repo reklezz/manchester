@@ -30,7 +30,6 @@ int main() {
 			{
 				modifiedString_.push_back("10");
 			}
-			else return 0;
 		}
 	}
 
