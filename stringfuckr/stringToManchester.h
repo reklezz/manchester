@@ -2,8 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-using namespace std;
+//using namespace std;
 
 char* stringToManchester(char* s) {
 	if (s == NULL) return 0;							/* Hvis der ikke er input, return 0 */

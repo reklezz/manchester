@@ -5,8 +5,6 @@
 //#include <iterator>
 #include "stringToManchester.h"
 
-using namespace std;
-
 int main() {
 
 
@@ -47,7 +45,6 @@ int main() {
 
 	printf("%s", stringToManchester(str));
 
-	while (true)
-	{
-	}
+	int x;
+	scanf("%d", &x);
 }
