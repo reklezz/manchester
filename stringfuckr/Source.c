@@ -1,14 +1,18 @@
+#pragma once
 //#include <string>
 //#include <bitset>
 //#include <iostream>
 //#include <vector>
 //#include <iterator>
 #include "stringToManchester.h"
+#include <stdio.h>
 
 int main() {
 
 
-	/*string originalString_ = "0HH216";
+	/*
+	
+	string originalString_ = "0HH216";
 	bitset<8> *array_ = new bitset<8>[originalString_.length()];
 	vector<string> modifiedString_;
 
@@ -36,7 +40,9 @@ int main() {
 	{
 		cout << *i;
 	}
-	cout << endl;*/
+	cout << endl;
+	
+	*/
 
 
 	char* str = " lol";
