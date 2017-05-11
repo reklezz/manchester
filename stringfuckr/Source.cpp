@@ -3,7 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <iterator>
-#include "\Users\Batuik\Downloads\stringToManchester.h"
+#include "stringToManchester.h"
 
 using namespace std;
 
