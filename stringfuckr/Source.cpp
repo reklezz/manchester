@@ -3,13 +3,14 @@
 #include <iostream>
 #include <vector>
 #include <iterator>
+#include "\Users\Batuik\Downloads\stringToManchester.h"
 
 using namespace std;
 
 int main() {
 
 
-	string originalString_ = "Patrick";
+	string originalString_ = "0HH216";
 	bitset<8> *array_ = new bitset<8>[originalString_.length()];
 	vector<string> modifiedString_;
 
@@ -38,4 +39,15 @@ int main() {
 		cout << *i;
 	}
 	cout << endl;
+
+
+	char* str = " lol";
+
+	/*stringToMancester(str);*/
+
+	printf("%s", stringToManchester(str));
+
+	while (true)
+	{
+	}
 }
