@@ -61,8 +61,3 @@ char* stringToManchester(char* s) {
 //		cout << endl;
 //	}
 //}
-
-int main()
-{
-
-}
